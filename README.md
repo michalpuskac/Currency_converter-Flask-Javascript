@@ -91,7 +91,7 @@ http://127.0.0.1:5001
 
 ## 📸 Screenshots
 
- (add later)
+![frontend-image](https://github.com/michalpuskac/Currency_converter-Flask-Javascript/blob/main/front_end.jpeg)
 
 
 ## License
@@ -105,7 +105,7 @@ Consider additional security measures if you plan to use it in a production envi
 If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 ---
-- **LinkedIn**: [LinkedIn](linkedin.com/in/michal-puškáč-94b925179)
-- **GitHub**: [GitHub](github.com/michalpuskac)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/michal-pu%C5%A1k%C3%A1%C4%8D-94b925179/)
+- **GitHub**: [GitHub](https://github.com/michalpuskac)
 
 ---
