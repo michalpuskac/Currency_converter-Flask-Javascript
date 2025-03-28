@@ -3,6 +3,10 @@
 A simple Flask-based currency converter that fetches live exchange rates from the Czech National Bank (CNB) and allows users to convert between 30+ currencies through a clean web interface.
 
 ---
+App is running on free server on [render.com](https://render.com/) 
+
+# [👉APLICATION HERE👈](https://currency-converter-flask-javascript.onrender.com/)
+---
 
 ## 🚀 Features
 - Fetches **live exchange rates** from CNB.
@@ -58,7 +62,7 @@ The official API is in plain text and updated daily.
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙️ Setup Instructions 
 
 1. **Clone this repository**
 
@@ -94,13 +98,13 @@ http://127.0.0.1:5001
 ![frontend-image](https://github.com/michalpuskac/Currency_converter-Flask-Javascript/blob/main/front_end.jpeg)
 
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Author - Michal Puškáč
+## 👨‍💻 Author - Michal Puškáč
 
-This projects are part of my portfolio, showcasing the basic python skills and concepts. This application is for educational purposes.
+This projects are part of my portfolio, showcasing the basic python, javascript skills and concepts. This application is for educational purposes.
 Consider additional security measures if you plan to use it in a production environment.
 If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
