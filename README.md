@@ -5,7 +5,7 @@ A simple Flask-based currency converter that fetches live exchange rates from th
 ---
 App is running on free server on [render.com](https://render.com/) 
 
-# [👉APLICATION HERE👈](https://currency-converter-flask-javascript.onrender.com/)
+# [👉APP👈](https://currency-converter-flask-javascript.onrender.com/)
 ---
 
 ## 🚀 Features
